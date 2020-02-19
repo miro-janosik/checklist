@@ -9,7 +9,7 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
   - [ ] nainstalujte si [blocker reklam a jiného sledovacího svinstva](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), extenzi pro [prevenci pred nebezpecenou komunikacii](https://www.eff.org/https-everywhere)
   - [ ] pokud používáte Facebook nebo jine sluzby, [nainstalujte pro ně ohrádku](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
   - [ ] nastavte ochranu soukromí:[tohle](https://restoreprivacy.com/firefox-privacy/) a [tohle](https://www.howtogeek.com/102032/how-to-optimize-mozilla-firefox-for-maximum-privacy/)
-- [ ] zkontrolujte antivir, pokud chce peníze, odinstalujte a zapněte [Windows Defender](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
+- [ ] pokud používáte Windows, zkontrolujte antivir, pokud chce peníze, odinstalujte a zapněte [Windows Defender](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
 - [ ] smažte z počítače programy, které nepoužíváte
 - [ ] nastavte si v počítači heslo
 - [ ] zapněte zálohování počítače ([Windows](https://support.microsoft.com/en-us/help/17143), [Mac](https://support.apple.com/en-us/HT201250))
@@ -60,9 +60,10 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
 - [ ] nastavte zámek telefonu (alespoň 8 čísel nebo otisk, ne obrázek)
 - [ ] na Androidu [zapněte šifrování](https://support.google.com/pixelphone/answer/2844831?hl=en)
 - [ ] nastavte [WhatsApp PIN](https://faq.whatsapp.com/en/android/26000021) (pokud máte WhatsApp - idealne nemate!)
-- [ ] nainstalujte si Signal
+- [ ] nainstalujte si [Signal](https://www.signal.org/)
   - [ ] nastavte [Signal PIN](https://medium.com/@mshelton/locking-down-signal-d71678f653d3)
 - [ ] používejte prohlížeč [Firefox](https://www.mozilla.org/en-US/firefox/mobile/)
+  - [ ] pro Firefox na Androidu si nainstalujte doplnek [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [ ] nastavte si obrázek na pozadí (poznáte rychleji případnou záměnu)
 - [ ] zvažte instalaci VPN (Idealne [Mullvad](https://mullvad.net/en/), [ProtonVPN](https://protonvpn.com/) nebo [jine ...](https://www.privacytools.io/providers/vpn/))
 - [ ] pokud telefon používáte k výrazně citlivé práci, vypněte synchronizaci do cloudu ([Android](https://cloud.google.com/service-usage/docs/enable-disable), [iOS](https://www.lifewire.com/turn-off-icloud-on-iphone-4580233)) - **POZOR** přijdete o zálohování fotek/kontaktů/souborů...
