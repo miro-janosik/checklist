@@ -4,17 +4,16 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
 
 ## Počítač
 
-- [ ] aktualizujte svůj počítač (Idealne NEpouzivejte [Windows 10](https://www.privacytools.io/operating-systems/#win10))
+- [ ] aktualizujte svůj počítač
 - [ ] stáhněte si slušný prohlížeč ([Firefox](https://www.mozilla.org/en-US/firefox/new/)), přestaňte používat Internet Explorer
   - [ ] nainstalujte si [blocker reklam a jiného sledovacího svinstva](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), extenzi pro [prevenci pred nebezpecenou komunikacii](https://www.eff.org/https-everywhere)
   - [ ] pokud používáte Facebook nebo jine sluzby, [nainstalujte pro ně ohrádku](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
   - [ ] nastavte ochranu soukromí:[tohle](https://restoreprivacy.com/firefox-privacy/) a [tohle](https://www.howtogeek.com/102032/how-to-optimize-mozilla-firefox-for-maximum-privacy/)
-- [ ] pokud používáte Windows, zkontrolujte antivir, pokud chce peníze, odinstalujte a zapněte [Windows Defender](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
+- [ ] pokud používáte Windows, zkontrolujte antivir, pokud chce peníze, odinstalujte ho a zapněte [Windows Defender](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
 - [ ] smažte z počítače programy, které nepoužíváte
 - [ ] nastavte si v počítači heslo
 - [ ] zapněte zálohování počítače ([Windows](https://support.microsoft.com/en-us/help/17143), [Mac](https://support.apple.com/en-us/HT201250))
 - [ ] zašifrujte si počítač ([Windows](https://www.howtogeek.com/192894/how-to-set-up-bitlocker-encryption-on-windows/), [Mac](https://support.apple.com/en-us/HT204837))
-- [ ] pro sifrovani souboru pouzijte [VeraCrypt](https://www.veracrypt.fr/en/Home.html), [GnuPG](https://gnupg.org/) nebo [jine ...](https://www.privacytools.io/software/encryption-tools/)
 - [ ] při každém odchodu od stolu si PC zamykejte ([Windows zkratka Win+L](http://www.zeigen.com/shortcuts/2007/03/16/lock/) nebo [Command+Control+Q na Macu](https://support.apple.com/en-us/HT201236))
 
 ## Hesla
@@ -45,7 +44,6 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
   - [ ] ze starého mailu si nastavte přesměrování do toho nového (obvykle v sekci Nastavení)
 - [ ] všechny své e-maily zkontrolujte na [';--have i been pwned](https://haveibeenpwned.com/)
 - [ ] ke všem e-mailům si nastavte na [';--have i been pwned upozornění](https://haveibeenpwned.com/NotifyMe)
-- [ ] nainstalujte si mailovy klient [Thunderbird](https://www.thunderbird.net/en-GB/)
 - [ ] nastavte [dvoufaktorové ověření](https://protonmail.com/support/knowledge-base/two-factor-authentication/)
 - [ ] vypněte auto načítání obrázků v mailových klientech jako [iOS/Android Mail](https://www.theverge.com/2019/7/3/20680903/email-pixel-trackers-how-to-stop-images-automatic-download)
 - [ ] nastavte v mailovém klientu, aby se zprávy ukazovaly jako plaintext ([Thunderbird](https://www.lifewire.com/plain-text-message-thunderbird-1173199))
@@ -63,9 +61,9 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
 - [ ] nainstalujte si [Signal](https://www.signal.org/)
   - [ ] nastavte [Signal PIN](https://medium.com/@mshelton/locking-down-signal-d71678f653d3)
 - [ ] používejte prohlížeč [Firefox](https://www.mozilla.org/en-US/firefox/mobile/)
-  - [ ] pro Firefox na Androidu si nainstalujte doplnek [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  - [ ] pro Firefox na Androidu si nainstalujte doplněk [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [ ] nastavte si obrázek na pozadí (poznáte rychleji případnou záměnu)
-- [ ] zvažte instalaci VPN (Idealne [Mullvad](https://mullvad.net/en/), [ProtonVPN](https://protonvpn.com/) nebo [jine ...](https://www.privacytools.io/providers/vpn/))
+- [ ] zvažte instalaci VPN (Idealne [Mullvad](https://mullvad.net/en/), [ProtonVPN](https://protonvpn.com/) nebo [jiné...](https://www.privacytools.io/providers/vpn/))
 - [ ] pokud telefon používáte k výrazně citlivé práci, vypněte synchronizaci do cloudu ([Android](https://cloud.google.com/service-usage/docs/enable-disable), [iOS](https://www.lifewire.com/turn-off-icloud-on-iphone-4580233)) - **POZOR** přijdete o zálohování fotek/kontaktů/souborů...
 
 ## Ostatní elektronika
