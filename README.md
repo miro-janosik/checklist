@@ -19,7 +19,7 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
 
 ## Hesla
 
-- [ ] založte si [správce hesel](https://bitwarden.com/) (Idealne [Bitwarden](https://bitwarden.com/), horsi alternativy jsou [Dashlane](https://www.dashlane.com/), [LastPass](https://www.lastpass.com/) nebo [1Password](https://1password.com/))
+- [ ] založte si [správce hesel](https://bitwarden.com/) ([Bitwarden](https://bitwarden.com/), [1Password](https://1password.com/))
 - [ ] stáhněte si aplikaci ke správci hesel do telefonu ([iOS](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744), [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden&hl=en_US))
 - [ ] nainstalujte [správce hesel do prohlížeče](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 - [ ] přeneste do správce všechna svá hesla a změňte všechna provařená, slabá a opakující se hesla
@@ -71,7 +71,7 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
 ## Ostatní elektronika
 
 - [ ] aktualizujte své chytré hodinky, lednici, žárovky...
-- [ ] aktualizujte svůj WiFi router doma (to už je trochu náročnější, záleží na zařízení, googlete "How to upgrade firmware on _Router XYZ_", případně poproste o pomoc někoho z kamarádů _ajťáků_) (???)
+- [ ] aktualizujte svůj WiFi router doma (to už je trochu náročnější, záleží na zařízení, googlete "How to upgrade firmware on _Router XYZ_", případně poproste o pomoc někoho z kamarádů _ajťáků_)
 
 ## Jiné
 
