@@ -4,6 +4,7 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
 
 ## Počítač
 
+- [ ] Idealne NEpouzivejte [Windows 10](https://www.privacytools.io/operating-systems/#win10)
 - [ ] aktualizujte svůj počítač
 - [ ] stáhněte si slušný prohlížeč ([Firefox](https://www.mozilla.org/en-US/firefox/new/)), přestaňte používat Internet Explorer
   - [ ] nainstalujte si [blocker reklam a jiného sledovacího svinstva](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), extenzi pro [prevenci pred nebezpecenou komunikacii](https://www.eff.org/https-everywhere)
@@ -42,11 +43,11 @@ Vytvořeno ve spolupráci s [Českým rozhlasem](https://www.irozhlas.cz/) a [P�
   - pokud nutně potřebujete Google účet (Google docs, máte Android telefon atd.), [založte si ho bez e-mailu](https://www.wikihow.com/Make-a-Google-Account-Without-Gmail)
   - [ ] nastavte si [2FA i na Google účet](https://www.google.com/landing/2step/)
   - [ ] ze starého mailu si nastavte přesměrování do toho nového (obvykle v sekci Nastavení)
-- [ ] všechny své e-maily zkontrolujte na [';--have i been pwned](https://haveibeenpwned.com/)
+- [ ] všechny své e-mailové konta zkontrolujte na [';--have i been pwned](https://haveibeenpwned.com/)
 - [ ] ke všem e-mailům si nastavte na [';--have i been pwned upozornění](https://haveibeenpwned.com/NotifyMe)
 - [ ] nastavte [dvoufaktorové ověření](https://protonmail.com/support/knowledge-base/two-factor-authentication/)
 - [ ] vypněte auto načítání obrázků v mailových klientech jako [iOS/Android Mail](https://www.theverge.com/2019/7/3/20680903/email-pixel-trackers-how-to-stop-images-automatic-download)
-- [ ] nastavte v mailovém klientu, aby se zprávy ukazovaly jako plaintext ([Thunderbird](https://www.lifewire.com/plain-text-message-thunderbird-1173199))
+- [ ] nastavte v mailovém klientu, aby se zprávy ukazovaly jako plaintext ([Thunderbird](https://www.lifewire.com/plain-text-message-thunderbird-1173199)), (dá se používat i pro práci s Exchange servery, s doplnky Owl anebo ExQuilla)
 
 ## Mobil
 
